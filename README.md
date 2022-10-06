@@ -1,3 +1,3 @@
 # sudoku-solver
 
-A Solver-class used for solving grid-based Soduku.
+🔢 Solver-class for solving grid-based Soduku.
